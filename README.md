@@ -37,6 +37,7 @@ Estoy abierto a oportunidades de trabajo y colaboraciones en proyectos interesan
 
 - [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/juan-manuel-de-cleene/)
 - [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:jmdecleene@gmail.com)
+- [![Gmail](https://img.icons8.com/ios-glyphs/30/000000/gmail.png)](mailto:jmdecleene@gmail.com)
 ## Otros Intereses 💡
 
 Además de mi pasión por la ciencia de datos y la programación, me entusiasma la enseñanza y la divulgación científica.
