@@ -35,8 +35,8 @@ También sé HTML, CSS Y JavaScript para desarrollo web, aunque ahora no es mi p
 
 Estoy abierto a oportunidades de trabajo y colaboraciones en proyectos interesantes. Si querés ponerte en contacto conmigo, podés hacerlo a través de los siguientes medios:
 
-- [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/juan-manuel-de-cleene/)
-- [![Gmail](https://skillicons.dev/icons?i=gmail)[jmdecleene@gmail.com]](mailto:jmdecleene@gmail.com)
+- [![LinkedIn](https://skillicons.dev/icons?i=linkedin)LinkedIn](https://www.linkedin.com/in/juan-manuel-de-cleene/)
+- [![Gmail](https://skillicons.dev/icons?i=gmail)jmdecleene@gmail.com](mailto:jmdecleene@gmail.com)
 ## Otros Intereses 💡
 
 Además de mi pasión por la ciencia de datos y la programación, me entusiasma la enseñanza y la divulgación científica.
