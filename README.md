@@ -36,7 +36,7 @@ También sé HTML, CSS Y JavaScript para desarrollo web, aunque ahora no es mi p
 Estoy abierto a oportunidades de trabajo y colaboraciones en proyectos interesantes. Si deseas ponerte en contacto conmigo, puedes hacerlo a través de los siguientes medios:
 
 - **Correo electrónico:** [jmdecleene@gmail.com](mailto:jmdecleene@gmail.com)
-- **[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/tu-perfil-linkedin)]LinkedIn:** [Juan Manuel De Cleene](https://www.linkedin.com/in/juan-manuel-de-cleene)
+- **![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/tu-perfil-linkedin)LinkedIn:** [Juan Manuel De Cleene](https://www.linkedin.com/in/juan-manuel-de-cleene)
 - **GitHub:** [Larrydek](https://github.com/Larrydek)
 
 ## Otros Intereses 💡
