@@ -23,8 +23,11 @@ Estoy especializado en el uso de varias herramientas y bibliotecas para análisi
   - **Seaborn**: Visualización de datos estadísticos.
   - **Scikit-learn**: Machine learning y modelado predictivo.
  
-- **SQL**
+- **SQL**:
+  -**SQLite, MySQL, SQLServer**
 - **C/C++**
+- **Azure Databricks, Snowflake, GCP, Google BigQuery.**
+- **Postman**
 
 Además, tengo conocimientos en IoT con Arduino.
 Hice proyectos de domótica y electrónica con sensores de humedad y temperatura para riego automático y control de cultivos.
