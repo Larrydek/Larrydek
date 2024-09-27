@@ -1,6 +1,6 @@
 ## Buenas! 👋
 
-Me dicen Larry, soy un aspirante a Data Engineer/Scientist en búsqueda de nuevas oportunidades laborales.
+Me dicen Larry, soy un aspirante a Data Engineer/Data Scientist en búsqueda de nuevas oportunidades laborales.
 Este repositorio es un compendio de mis proyectos, habilidades y experiencia en el campo de la programación, ciencia e ingeniería de datos.
 
 ## Sobre mí 🧑‍🏫
