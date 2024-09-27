@@ -29,7 +29,7 @@ Estoy especializado en el uso de varias herramientas y bibliotecas para análisi
 - **Azure Databricks, Snowflake, GCP, Google BigQuery.**
 - **Postman**
 
-Además, tengo conocimientos en IoT con Arduino.
+Además, tengo conocimientos en IoT con **Arduino.**
 Hice proyectos de domótica y electrónica con sensores de humedad y temperatura para riego automático y control de cultivos.
 
 También sé HTML, CSS Y JavaScript para desarrollo web, aunque ahora no es mi principal campo de estudio.
