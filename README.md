@@ -9,12 +9,12 @@ Este repositorio es un compendio de mis proyectos, habilidades y experiencia en 
 - **Ubicación:** Madrid, España
 - **Formación:**
   - Ciencias de la Computación en 42 Madrid Fundación Telefónica. (Madrid, España)
-  - Python en Universidad Nacional de San Martín. (Buenos Aires, Argentina)
-  - Química en la Universidad Nacional de Rosario. (Santa Fe, Argentina)
+  - Ciencia de datos y Python en Universidad Nacional de San Martín. (Buenos Aires, Argentina)
+  - Licenciatura en Química en la Universidad Nacional de Rosario. (Santa Fe, Argentina)
 
 ## Habilidades 💻
 
-Estoy especializado en el uso de varias herramientas y bibliotecas para análisis de datos y machine learning, tales como:
+Estoy especializado en el uso de vCarias herramientas y bibliotecas para análisis de datos y machine learning, tales como:
 
 - **Python**:
   - **Pandas**: Manipulación y análisis de datos.
