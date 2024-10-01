@@ -12,6 +12,7 @@ Este repositorio es un compendio de mis proyectos, habilidades y experiencia en 
   - Ciencias de la Computación en 42 Madrid Fundación Telefónica. (Madrid, España)
   - Ciencia de datos y Python en Universidad Nacional de San Martín. (Buenos Aires, Argentina)
   - Licenciatura en Química en la Universidad Nacional de Rosario. (Santa Fe, Argentina)
+  - Autodidacta.
 
 ## Habilidades 💻
 
