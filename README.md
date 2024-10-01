@@ -16,7 +16,7 @@ Este repositorio es un compendio de mis proyectos, habilidades y experiencia en 
 
 ## Habilidades 💻
 
-Estoy especializado en el uso de vCarias herramientas y bibliotecas para análisis de datos y machine learning, tales como:
+Estoy especializado en el uso de varias herramientas y bibliotecas para la manipulación de datos y machine learning, tales como:
 
 - **Python**:
   - **Pandas**: Manipulación y análisis de datos.
