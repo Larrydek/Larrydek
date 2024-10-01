@@ -1,8 +1,8 @@
 ## Buenas! 👋
 
 Mi nombre es Juan Manuel, soy un aspirante a **Data Scientist / Data Engineer** listo para nuevos desafíos y desarrollarme profesionalmente dentro del ámbito laboral.
-Tengo sólida formación en áreas **STEM** como **Matemáticas, Química, Física, Estadística y Programación** y soy profesor de varias academias de clases en todas estas áreas, aquí en Madrid.
-Este repositorio es un compendio de mis proyectos, habilidades y experiencia en el campo de la programación, ciencia e ingeniería de datos.
+Tengo sólida formación en áreas **STEM** como **Matemáticas, Química, Física, Estadística y Programación**, y soy profesor de varias academias de clases en todas estas áreas, aquí en **Madrid**.
+Este repositorio es un compendio de mis proyectos, habilidades y experiencia en el campo de la programación, **análisis, ingeniería y ciencia de datos.**
 
 ## Sobre mí 🧑‍🏫
 
