@@ -26,7 +26,7 @@ Estoy especializado en el uso de varias herramientas y bibliotecas para la manip
   - **Scikit-learn**: Machine learning y modelado predictivo.
  
 - **SQL**:
-  - **SQLite, MySQL, SQLServer**
+  - **SQLite, MySQL, SQLServer, PostgreSQL**
 - **C/C++**
 - **Azure Databricks, Snowflake, GCP, Google BigQuery.**
 - **Postman**
