@@ -1,7 +1,7 @@
 ## Buenas! 👋
 
 Mi nombre es Juan Manuel, soy un aspirante a **Data Scientist / Data Engineer** listo para nuevos desafíos y desarrollarme profesionalmente actualizándome de las últimas tecnologías dentro de la industria.
-Actualmente trabajo en The Cocktail como **Data Engineer** y tecnologías **CDP**.
+Actualmente trabajo en **The Cocktail** como **Data Engineer** y tecnologías **CDP**.
 Tengo sólida formación en áreas **STEM** como **Matemáticas, Química, Física, Estadística, Programación y Electrónica**, y soy profesor de varias academias de clases en todas estas áreas, aquí en **Madrid**.
 Este repositorio es un compendio de mis proyectos, habilidades y experiencia en el campo de la programación, **análisis, ingeniería y ciencia de datos.**
 
