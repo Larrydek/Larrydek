@@ -19,7 +19,7 @@ Este repositorio es un compendio de mis proyectos, habilidades y experiencia en 
 Estoy especializado en el uso de varias herramientas y bibliotecas para la manipulación de datos y machine learning, tales como:
 
 - **Python**:
-  - **Pandas**: Manipulación y análisis de datos.
+  - **Pandas & PySpark**: Manipulación y análisis de datos.
   - **NumPy**: Computación científica y operaciones con matrices.
   - **Matplotlib**: Visualización de datos.
   - **Seaborn**: Visualización de datos estadísticos.
@@ -28,8 +28,10 @@ Estoy especializado en el uso de varias herramientas y bibliotecas para la manip
 - **SQL**:
   - **SQLite, MySQL, SQLServer, PostgreSQL**
 - **C/C++**
-- **Azure Databricks, Snowflake, GCP, Google BigQuery.**
+- **Azure Databricks, Snowflake, Google Cloud Platform**
 - **Postman**
+- **DBeaver**
+- **Docker**
 
 Además, tengo conocimientos en IoT con **Arduino.**
 Hice proyectos de domótica y electrónica con sensores de humedad y temperatura para riego automático y control de cultivos.
