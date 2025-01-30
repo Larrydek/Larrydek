@@ -26,11 +26,11 @@ Estoy especializado en el uso de varias herramientas y bibliotecas para la manip
   - **Scikit-learn**: Machine learning y modelado predictivo.
  
 - **SQL**:
-  - **SQLite, MySQL, SQLServer, PostgreSQL**
+  - **PostgreSQL, SparkSQL, MySQL, SQLServer**
 - **C/C++**
-- **Azure Databricks, Snowflake, Google Cloud Platform**
+- **Azure Data Factory, Fabric, Databricks, Snowflake**
 - **Postman**
-- **DBeaver**
+- **DBeaver/Pgadmin**
 - **Docker**
 
 Además, tengo conocimientos en IoT con **Arduino.**
