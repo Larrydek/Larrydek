@@ -1,6 +1,6 @@
 ## Buenas! 👋
 
-Mi nombre es Juan Manuel, soy aspirante a **MLOps** actualmente trabajando como **Data Engineer** en **The Cocktail** listo para nuevos desafíos y desarrollarme profesionalmente actualizándome de las últimas tecnologías dentro de la industria.
+Mi nombre es Juan Manuel, soy aspirante a **DataOps/MLOps** actualmente trabajando como **Data Engineer** en **The Cocktail** listo para nuevos desafíos y desarrollarme profesionalmente actualizándome de las últimas tecnologías dentro de la industria.
 Tengo sólida formación en áreas **STEM** como **Matemáticas, Química, Física, Estadística, Programación y Electrónica**, y soy profesor de varias academias de clases en todas estas áreas, aquí en **Madrid**.
 Este repositorio es un compendio de mis proyectos, habilidades y experiencia en el campo de la programación, **análisis, ingeniería y ciencia de datos.**
 
