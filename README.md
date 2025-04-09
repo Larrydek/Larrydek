@@ -31,7 +31,7 @@ Estoy especializado en el uso de varias herramientas y bibliotecas para la manip
 - **SQL**:
   - **PostgreSQL, SQLServer**
 - **C/C++**
-- **Azure Data Factory, Fabric, Databricks, Snowflake**
+- **Databricks, Snowflake**
 - **Postman**
 - **DBeaver/Pgadmin**
 - **Docker**
