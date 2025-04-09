@@ -2,6 +2,7 @@
 
 Mi nombre es Juan Manuel, trabajo como **Data Engineer y DBAdmin** en **VML The Cocktail** listo para nuevos desafíos y desarrollarme profesionalmente actualizándome de las últimas tecnologías dentro de la industria.
 Tengo sólida formación en áreas **STEM** como **Matemáticas, Química, Física, Estadística, Programación y Electrónica**, y soy profesor de varias academias de clases en todas estas áreas, aquí en **Madrid**.
+Me certifiqué recientemente en Azure Database Administrator Associate (DP-300).
 Este repositorio es un compendio de mis proyectos, habilidades y experiencia en el campo de la programación, **análisis, ingeniería y ciencia de datos.**
 
 ## Sobre mí 🧑‍🏫
@@ -26,12 +27,13 @@ Estoy especializado en el uso de varias herramientas y bibliotecas para la manip
   - **Scikit-learn**: Machine learning y modelado predictivo.
  
 - **SQL**:
-  - **PostgreSQL, SparkSQL, MySQL, SQLServer**
+  - **PostgreSQL, SQLServer**
 - **C/C++**
 - **Azure Data Factory, Fabric, Databricks, Snowflake**
 - **Postman**
 - **DBeaver/Pgadmin**
 - **Docker**
+- **ARM, Bicep, Terraform**
 
 Además, tengo conocimientos en IoT con **Arduino.**
 Hice proyectos de domótica y electrónica con sensores de humedad y temperatura para riego automático y control de cultivos.
