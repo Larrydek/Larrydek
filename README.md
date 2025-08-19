@@ -1,8 +1,8 @@
 ## Buenas! 👋
 
-Mi nombre es Juan Manuel, trabajo como **Data Engineer y DBAdmin** en **VML The Cocktail** listo para nuevos desafíos y desarrollarme profesionalmente actualizándome de las últimas tecnologías dentro de la industria.
+Mi nombre es Juan Manuel, trabajo como **Desarrollador de software embebido** en **Ulbios**.
 
-Tengo sólida formación en áreas **STEM** como **Matemáticas, Química, Física, Estadística, Programación y Electrónica**, y soy profesor de varias academias de clases en todas estas áreas, aquí en **Madrid**.
+Tengo sólida formación en áreas **STEM** como **Matemáticas, Química, Física, Estadística, Programación y Electrónica**, y fui profesor de varias academias de clases en todas estas áreas en Madrid. Actualmente vivo en Barcelona.
 
 Me certifiqué recientemente en **Azure Database Administrator Associate (DP-300)**.
 Este repositorio es un compendio de mis proyectos, habilidades y experiencia en el campo de la programación, **análisis, ingeniería y ciencia de datos.**
