@@ -1,60 +1,46 @@
-## Buenas! 👋
+## Hello! 👋
 
-Mi nombre es Juan Manuel, trabajo como **Desarrollador de software embebido** en **Ulbios**.
+My name is Juan Manuel, and I currently work as an **Embedded Software Developer & Sysadmin** at **Ulbios**.  
+I have a strong background in **STEM fields** including **Mathematics, Chemistry, Physics, Statistics, Programming, and Electronics**. I have also worked as an instructor in these subjects at different academies in Madrid. Currently, I live in Barcelona.
 
-Tengo sólida formación en áreas **STEM** como **Matemáticas, Química, Física, Estadística, Programación y Electrónica**, y fui profesor de varias academias de clases en todas estas áreas en Madrid. Actualmente vivo en Barcelona.
+I recently obtained the **Azure Database Administrator Associate (DP-300)** certification.  
 
-Me certifiqué recientemente en **Azure Database Administrator Associate (DP-300)**.
-Este repositorio es un compendio de mis proyectos, habilidades y experiencia en el campo de la programación, **análisis, ingeniería y ciencia de datos.**
+This repository is a collection of my projects, skills, and experience in programming, data analysis, engineering, and data science.
 
-## Sobre mí 🧑‍🏫
+## About Me 🧑‍🏫
 
-- **Nombre:** Juan Manuel De Cleene
-- **Ubicación:** Gavá, Barcelona, España
-- **Formación:**
-  - Ciencias de la Computación en 42 Madrid Fundación Telefónica. (Madrid, España)
-  - Ciencia de datos y Python en Universidad Nacional de San Martín. (Buenos Aires, Argentina)
-  - Licenciatura en Química en la Universidad Nacional de Rosario. (Santa Fe, Argentina)
-  - Autodidacta.
+- **Name:** Juan Manuel De Cleene  
+- **Location:** Gavá, Barcelona, Spain  
+- **Education:**  
+  - Computer Science at 42 Madrid, Fundación Telefónica (Madrid, Spain)  
+  - Data Science and Python at Universidad Nacional de San Martín (Buenos Aires, Argentina)  
+  - Bachelor's Degree in Chemistry at Universidad Nacional de Rosario (Santa Fe, Argentina)  
+  - Self-taught in multiple areas  
 
-## Habilidades 💻
+Additionally, I have hands-on experience with IoT projects using **Arduino**, including home automation and electronics projects with humidity and temperature sensors for automatic irrigation and crop monitoring.  
 
-Estoy especializado en el uso de varias herramientas y bibliotecas para la manipulación de datos y machine learning, tales como:
+I also know HTML, CSS, and JavaScript for web development, although it is not my primary focus currently.
 
-- **Python**:
-  - **Pandas & PySpark**: Manipulación y análisis de datos.
-  - **NumPy**: Computación científica y operaciones con matrices.
-  - **Matplotlib**: Visualización de datos.
-  - **Seaborn**: Visualización de datos estadísticos.
-  - **Scikit-learn**: Machine learning y modelado predictivo.
- 
-- **SQL**:
-  - **PostgreSQL, SQLServer**
-- **C/C++**
-- **Databricks, Snowflake**
-- **Postman**
-- **DBeaver/Pgadmin**
-- **Docker**
-- **ARM, Bicep, Terraform**
+## Current Role at Ulbios
 
-Además, tengo conocimientos en IoT con **Arduino.**
-Hice proyectos de domótica y electrónica con sensores de humedad y temperatura para riego automático y control de cultivos.
+In my role, I combine **system administration**, **embedded electronics**, and **DataOps** practices to maintain and optimize our infrastructure while developing integrated solutions that help manage data flows from IoT devices and embedded systems. My work involves Linux environments, automation, remote access, and extracting actionable insights from chemical process data.
 
-También sé HTML, CSS Y JavaScript para desarrollo web, aunque ahora no es mi principal campo de estudio.
+## Contact 📧
 
-## Contacto 📧
+I’m open to job opportunities and interesting collaborations. Feel free to reach out to me through:
 
-Estoy abierto a oportunidades de trabajo y colaboraciones en proyectos interesantes. Si querés ponerte en contacto conmigo, podés hacerlo a través de los siguientes medios:
+- [![LinkedIn](https://skillicons.dev/icons?i=linkedin) LinkedIn](https://www.linkedin.com/in/juan-manuel-de-cleene/)  
+- [![Email](https://skillicons.dev/icons?i=gmail) Email](mailto:jmdecleene@gmail.com)
 
-- [![LinkedIn](https://skillicons.dev/icons?i=linkedin) LinkedIn](https://www.linkedin.com/in/juan-manuel-de-cleene/)
-- [![Gmail](https://skillicons.dev/icons?i=gmail) jmdecleene@gmail.com](mailto:jmdecleene@gmail.com)
-## Otros Intereses 💡
+## Other Interests 💡
 
-Además de mi pasión por la ciencia de datos y la programación, me entusiasma la enseñanza y la divulgación científica.
-Estudié química en Argentina y me fascina el mundo académico y la investigación. Me encantaba el laboratorio.
-Mi principal trabajo siempre ha sido dar clases particulares de ciencias, lo cual me ha permitido compartir mi conocimiento y aprender de mis estudiantes.
+Besides my passion for data science and programming, I enjoy teaching and scientific outreach. My academic background in chemistry and my love for laboratory work fuel my curiosity and dedication to research and education.  
+
+Teaching science privately has been my main occupation for many years, allowing me to share my knowledge and learn from my students.
 
 ---
 
-¡Gracias por visitar mi portafolio!
-Espero que encuentres interesante mi trabajo y habilidades. Estoy ansioso por contribuir a proyectos desafiantes y seguir creciendo en el campo de la ciencia de datos, y por qué no, aplicarlo en ciencias químicas.
+Thank you for visiting my portfolio!  
+I hope you find my work and skills interesting. I’m eager to contribute to challenging projects and continue growing in data science, especially applying it to chemical sciences.
+
+
