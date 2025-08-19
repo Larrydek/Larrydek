@@ -10,7 +10,7 @@ Este repositorio es un compendio de mis proyectos, habilidades y experiencia en 
 ## Sobre mí 🧑‍🏫
 
 - **Nombre:** Juan Manuel De Cleene
-- **Ubicación:** Madrid, España
+- **Ubicación:** Gavá, Barcelona, España
 - **Formación:**
   - Ciencias de la Computación en 42 Madrid Fundación Telefónica. (Madrid, España)
   - Ciencia de datos y Python en Universidad Nacional de San Martín. (Buenos Aires, Argentina)
